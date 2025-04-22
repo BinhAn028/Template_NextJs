@@ -1,1 +1,3 @@
-
+- Trezo: https://themeforest.net/item/trezo-multiframework-admin-dashboard-template/54060214
+- Maintain-Dashboard: https://mantine-analytics-dashboard.netlify.app
+- Shadcn-Dashboard: https://github.com/Kiranism/next-shadcn-dashboard-starter
